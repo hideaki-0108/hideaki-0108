@@ -17,6 +17,3 @@ Junior UI Engineerとして、モダンなウェブ開発に取り組んでい�
 - Astro
 - Node.js
 - React Native
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki-0108&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
