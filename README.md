@@ -1,61 +1,43 @@
-# TOMORI Hideaki (友利 秀旭)
-zenn:https://zenn.dev/hideaki_0108
-
-## 👨‍💻 About Me
-Junior UI Engineerとして、モダンなウェブ開発に取り組んでいる。
-ユーザー体験を重視したアクセシブル・インタラクティブなWebサイトやWebアプリの制作に情熱を持って取り組んでいます。
-
-## 🛠️ Tech Stack
-<p align="left">
-<!-- コア技術 -->
-<a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<!-- フレームワーク -->
-<a href="https://vuejs.org/" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="blank" rel="noreferrer">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a>
-<!-- アニメーション -->
-<a href="https://greensock.com/gsap/" target="blank" rel="noreferrer">
-<img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="40" height="40"/>
-</a>
-<!-- プリプロセッサ・テンプレートエンジン -->
-<a href="https://sass-lang.com" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-<a href="https://pugjs.org" target="blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-</a>
-<!-- デザインツール -->
-<a href="https://www.figma.com/" target="blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<h1 align="center">Hi 👋, I'm Hideaki Tomori (友利 秀旭)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F78585&center=true&vCenter=true&width=435&lines=🎨+Creative+Front-end+Engineer;⚡+GSAP+Motion+Lover;👾+Vue+%7C+React+Explorer" />
 </p>
 
-### スキル
-- HTML(Pug) / CSS(Sass)
-- JavaScript / TypeScript
-- Vue2 | Composition API | Pinia
-- GSAPを使用したアニメーション
+---
 
-### 現在学習中
-- React
+## 🧠 Who am I?
+
+Junior UI Engineerとして、モダンなWebを楽しく・美しく作っています！
+アクセシブル・インタラクティブ・ちょっと遊び心を大切にした、付加価値のあるサイト作りが好きです。
+
+- 経歴
+  - 沖縄県宮古島出身
+  - 日本電子専門学校Webデザイン科卒
+  - 株式会社カレンティア
+
+---
+
+## 🛠️ My Playground
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma&perline=9" />
+  <img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="48" height="48" />
+</p>
+
+---
+
+## 🔭 I’m currently learning...
 - Next.js
 - Astro
-- Node.js
 - React Native
+
+---
+
+## 🧶 Interaction & Motion Threads
+
+<p align="center">
+  小さな動きが、体験を変える。  
+  インタラクションやアニメーションを試しながら、日々ちょっとずつ「楽しいUI」を織り上げています。
+</p>
+
+
+Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
