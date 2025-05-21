@@ -1,4 +1,5 @@
 # TOMORI Hideaki (友利 秀旭)
+zenn:https://zenn.dev/hideaki_0108
 
 ## 👨‍💻 About Me
 Junior UI Engineerとして、モダンなウェブ開発に取り組んでいる。
