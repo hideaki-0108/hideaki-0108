@@ -16,13 +16,19 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
   - 2023.日本電子専門学校Webデザイン科卒
   - 2023.株式会社カレンティア
 
+Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
+
+
 ---
 
 ## 🛠️ My Playground
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma&perline=9" />
   <img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="48" height="48" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki-0108&layout=compact)
 
 ---
 
@@ -41,4 +47,3 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
 </p>
 
 
-Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
