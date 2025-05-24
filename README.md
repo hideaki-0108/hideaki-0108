@@ -25,9 +25,12 @@ Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
 ---
 
 ## 🛠️ My Playground
+<div style="align: left;">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma&perline=9" />
+  <img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="48" height="48" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma&perline=9" />
-<img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="48" height="48" />
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki-0108&layout=compact)
 
