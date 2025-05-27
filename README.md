@@ -56,3 +56,6 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 </p>
 
 
+![](https://komarev.com/ghpvc/?username=hideaki-0108)
+[![Articles](https://badgen.org/img/zenn/hideaki_0108/articles?style=plastic)](https://zenn.dev/hideaki_0108)
+[![Likes](https://badgen.org/img/zenn/hideaki_0108/likes?style=plastic)](https://zenn.dev/hideaki_0108)
