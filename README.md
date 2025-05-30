@@ -20,7 +20,6 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
   - 2023.12 うぇぶなう！Vol.6 業界の最前線×未来へのステップ！（専門学校とWeb制作会社の共催イベント）
 
 Site 👉 [tmr-hide.com](https://tmr-hide.com/)
-※鋭意レスポンシブ制作対応中のサイトになります！
 <br>
 Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
 <br>
