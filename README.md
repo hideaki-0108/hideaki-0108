@@ -44,6 +44,7 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 - Next.js
 - Astro
 - React Native
+- Three.js
 
 ---
 
