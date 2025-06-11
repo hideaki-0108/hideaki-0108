@@ -21,6 +21,8 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
 
 Site 👉 [tmr-hide.com](https://tmr-hide.com/)
 <br>
+Webアニメーション集 👉 [animezumi](https://tomori-portfolio.pages.dev/animezumi/)
+<br>
 Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
 <br>
 X  👉 [@tmr_hide](https://x.com/tmr_hide)
