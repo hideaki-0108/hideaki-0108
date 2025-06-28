@@ -32,8 +32,15 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 
 ## 🛠️ My Playground
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma&perline=9" />
-  <img src="https://gsap.com/apple-touch-icon.png" alt="gsap" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,pug,css,sass&perline=4" />
+</div>
+
+<div style="align: left;">
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vue,pinia,reac,astrot&perline=8" />
+</div>
+
+<div style="align: left;">
+  <img src="https://skillicons.dev/icons?i=xd,figma&perline=2" />
 </div>
 
 <br>
