@@ -50,6 +50,8 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 ---
 
 ## 🔭 I’m currently learning...
+- （優先度高で！）基本情報技術者試験
+  - 2025年内で取得を目指してます
 - Next.js
 - Astro
 - React Native
