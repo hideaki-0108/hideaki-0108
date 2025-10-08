@@ -15,6 +15,7 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
   - 2003.沖縄県宮古島出身
   - 2023.日本電子専門学校Webデザイン科卒
   - 2023.株式会社カレンティア
+  - 2025.株式会社ネクスソフト
  
 - 登壇履歴
   - 2023.12 うぇぶなう！Vol.6 業界の最前線×未来へのステップ！（専門学校とWeb制作会社の共催イベント）
@@ -32,15 +33,23 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 
 ## 🛠️ My Playground
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=html,pug,css,sass&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,pug,css,sass,mui&perline=5" />
 </div>
 
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vue,pinia,react,astro&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vitest,vue,pinia,react,astro&perline=10" />
 </div>
 
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=xd,figma&perline=2" />
+  <img src="https://skillicons.dev/icons?i=xd,figma,photoshop&perline=3" />
+</div>
+
+<div style="align: left;">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql&perline=3" />
+</div>
+
+<div style="align: left;">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=3" />
 </div>
 
 <br>
@@ -50,11 +59,9 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 ---
 
 ## 🔭 I’m currently learning...
-- （優先度高で！）基本情報技術者試験
-  - 2025年内で取得を目指してます
 - Next.js
 - Astro
-- React Native
+- java
 - Three.js
 
 ---
