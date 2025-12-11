@@ -37,7 +37,7 @@ X  👉 [@tmr_hide](https://x.com/tmr_hide)
 </div>
 
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vitest,vue,pinia,react,astro&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vitest,vue,pinia,react,astro&perline=5" />
 </div>
 
 <div style="align: left;">
