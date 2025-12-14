@@ -20,13 +20,11 @@ Junior UI Engineerとして、モダンなWebを楽しく・美しく作って�
 - 登壇履歴
   - 2023.12 うぇぶなう！Vol.6 業界の最前線×未来へのステップ！（専門学校とWeb制作会社の共催イベント）
 
-Site 👉 [tmr-hide.com](https://tmr-hide.com/)
+Site 👉 <a href="https://tmr-hide.com/" target="_blank">tmr-hide.com</a>
 <br>
-Webアニメーション集 👉 [animezumi](https://tmr-hide.com/animezumi/)
+Webアニメーション集 👉 <a href="https://tmr-hide.com/animezumi/" target="_blank">animezumi</a>
 <br>
-Zenn 👉 [https://zenn.dev/hideaki_0108](https://zenn.dev/hideaki_0108)
-<br>
-X  👉 [@tmr_hide](https://x.com/tmr_hide)
+Zenn 👉 <a href="https://zenn.dev/hideaki_0108" target="_blank">hideaki_0108</a>
 
 
 ---
