@@ -36,7 +36,7 @@ Zenn 👉 <a href="https://zenn.dev/hideaki_0108" target="_blank">hideaki_0108</
 </div>
 
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vitest,vue,pinia,react,astro&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,jest,vitest,vue,pinia,react,angular,astro&perline=5" />
 </div>
 
 <div style="align: left;">
@@ -44,7 +44,7 @@ Zenn 👉 <a href="https://zenn.dev/hideaki_0108" target="_blank">hideaki_0108</
 </div>
 
 <div style="align: left;">
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql&perline=3" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql&perline=4" />
 </div>
 
 <div style="align: left;">
